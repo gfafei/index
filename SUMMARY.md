@@ -2,6 +2,10 @@
 
 * [👋 Welcome!](README.md)
 
+## Daily logs
+
+* 2023
+  * [0502](daily-logs/2023/0502.md)
 ## About us
 
 * [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
