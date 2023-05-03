@@ -5,6 +5,7 @@
 ## Daily logs
 
 * [2023](daily-logs/2023/README.md)
+  * [Page 1](daily-logs/2023/page-1.md)
   * [0502](daily-logs/2023/0502.md)
 
 ## About us
